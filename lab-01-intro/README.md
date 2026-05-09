@@ -4,7 +4,7 @@
 This introductory laboratory covers the foundational concepts of Data Mining, focusing on the theoretical methodology and the CRISP-DM lifecycle.
 
 ## Contents
-*   **Methodology Report**: A comprehensive technical report (`FELLAH_YOUSSEF_TP1.pdf`) detailing the primary objectives and stages of a data mining project.
+*   **Methodology Report**: A comprehensive technical report (`intro-methodology-report.pdf`) detailing the primary objectives and stages of a data mining project.
 
 ## Key Concepts
 *   Understanding data types and distributions.

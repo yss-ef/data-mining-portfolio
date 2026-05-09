@@ -15,7 +15,7 @@ This laboratory focuses on exploratory data analysis (EDA) and statistical valid
 *   **Nationwide Trend**: Confirmed that the "Smartphone surge" is a robust national pattern, overperforming in 100% of tested cities.
 
 ## Dataset
-*   `retail_synthetique_tp3.csv`: Synthetic retail data containing dates, cities, products, prices, and payment methods.
+*   `retail-synthetic-dataset.csv`: Synthetic retail data containing dates, cities, products, prices, and payment methods.
 
 ## Visualizations
 The analysis produced distribution plots and revenue contribution charts to support the business recommendations.
