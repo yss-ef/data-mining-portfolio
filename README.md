@@ -16,11 +16,6 @@ In the flagship study of this portfolio (Lab 03), I conducted a deep-dive analys
 *   [lab-02-pandas-matplotlib](./lab-02-pandas-matplotlib): Advanced data manipulation and visualization with NumPy, Pandas, and Matplotlib.
 *   [lab-03-sunday-effect](./lab-03-sunday-effect): Comprehensive retail analysis using statistical hypothesis testing and multi-city validation.
 
-## Visual Insights (Lab 03)
-| Distribution Analysis | Revenue Contribution |
-| --- | --- |
-| ![Distribution](lab-03-sunday-effect/distribution-amounts-plot.png) | ![Revenue](lab-03-sunday-effect/revenue-contribution-plot.png) |
-
 ## Tech Stack
 *   Language: Python (Jupyter)
 *   Libraries: Pandas, NumPy, Scikit-learn

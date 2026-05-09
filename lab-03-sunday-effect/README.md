@@ -20,5 +20,10 @@ This laboratory focuses on exploratory data analysis (EDA) and statistical valid
 ## Visualizations
 The analysis produced distribution plots and revenue contribution charts to support the business recommendations.
 
+## Visual Insights
+| Distribution Analysis | Revenue Contribution |
+| --- | --- |
+| ![Distribution](distribution-amounts-plot.png) | ![Revenue](revenue-contribution-plot.png) |
+
 ---
 *Developed for the Data Mining Module - Mundiapolis University.*
