@@ -21,6 +21,5 @@ In the flagship study of this portfolio (Lab 03), I conducted a deep-dive analys
 *   Libraries: Pandas, NumPy, Scikit-learn
 *   Visualization: Matplotlib, Seaborn
 
----
-*Authored by Youssef Fellah.*
-*Developed for the Engineering Cycle - Mundiapolis University.*
+Authored by Youssef Fellah.  
+Developed for the Engineering Cycle - Mundiapolis University.

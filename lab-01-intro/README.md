@@ -14,6 +14,5 @@ This introductory laboratory covers the foundational concepts of Data Mining, fo
 ---
 *Developed for the Data Mining Module - Mundiapolis University.*
 
----
-*Authored by Youssef Fellah.*
-*Developed for the Engineering Cycle - Mundiapolis University.*
+Authored by Youssef Fellah.  
+Developed for the Engineering Cycle - Mundiapolis University.

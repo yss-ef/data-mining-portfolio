@@ -19,6 +19,5 @@ This laboratory focuses on mastering the Python data science stack—specificall
 ---
 *Developed for the Data Mining Module - Mundiapolis University.*
 
----
-*Authored by Youssef Fellah.*
-*Developed for the Engineering Cycle - Mundiapolis University.*
+Authored by Youssef Fellah.  
+Developed for the Engineering Cycle - Mundiapolis University.

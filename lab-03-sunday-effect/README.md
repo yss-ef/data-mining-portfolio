@@ -28,6 +28,5 @@ The analysis produced distribution plots and revenue contribution charts to supp
 ---
 *Developed for the Data Mining Module - Mundiapolis University.*
 
----
-*Authored by Youssef Fellah.*
-*Developed for the Engineering Cycle - Mundiapolis University.*
+Authored by Youssef Fellah.  
+Developed for the Engineering Cycle - Mundiapolis University.
