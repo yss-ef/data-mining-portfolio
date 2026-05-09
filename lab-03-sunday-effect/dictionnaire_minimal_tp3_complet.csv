@@ -1,0 +1,11 @@
+nom,type,definition,unite_ou_domaine,contraintes,traitement
+date,date (object → datetime64),Date de la transaction,YYYY-MM-DD,"Non nul, >= 2024-01-01",Conversion en datetime64 ; variable dérivée is_dimanche (dayofweek == 6)
+ville,string (catégoriel),Ville du magasin,"{Casablanca, Rabat, Marrakech, Fes, Agadir, Tanger}",Non nul ; 6 valeurs distinctes,Utilisé pour le test de robustesse géographique (Q16)
+transaction_id,string (identifiant),Identifiant unique du ticket de caisse,Chaîne alphanumérique,Non nul,Comptage du support par produit (nb de lignes distinctes)
+categorie,string (catégoriel),Catégorie du produit,"{Alimentaire, Vêtements, High-Tech, …}",Non nul,Contexte pour les recommandations stratégiques
+produit,string (catégoriel),Nom du produit vendu,Libellé produit,Non nul ; axe d'analyse principal,Groupby pour calcul du CA et parts de marché
+prix_unitaire,float,Prix de vente d'une unité avant remise,MAD (> 0),Strictement positif,Composante du calcul du montant net
+quantite,int,Nombre d'unités achetées,Entier ≥ 1,Strictement positif,Composante du calcul du montant net
+remise_pct,float,Taux de remise accordé (%),"[0, 100]",Peut être nul (pas de remise) ou manquant,Imputation à 0 (absence de remise) ; composante du montant net
+moyen_paiement,string (catégoriel),Mode de paiement utilisé,"{Carte, En ligne, Especes}",Non nul après harmonisation,"Harmonisation des libellés : CB/carte → Carte, En-ligne → En ligne"
+montant,float (variable dérivée),CA net de la ligne d'achat,MAD (> 0),Doit être strictement positif,Calculé via : prix_unitaire × quantite × (1 − remise_pct/100)

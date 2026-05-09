@@ -1,0 +1,551 @@
+date,ville,transaction_id,categorie,produit,prix_unitaire,quantite,remise_pct,moyen_paiement,is_dimanche
+2024-12-29,Fes,T000002,Alimentation,The,151.93,1,0.0,Especes,True
+2024-04-21,Marrakech,T000005,Beaute,Shampooing,666.02,3,10.0,Especes,True
+2024-03-31,Fes,T000009,Vetements,Chaussures,670.52,2,15.0,En-ligne,True
+2024-04-28,Agadir,T000010,Sports,Halteres,767.98,1,0.0,En ligne,True
+2024-06-30,Fes,T000017,Maison,Lampe,937.22,2,5.0,Carte,True
+2024-07-07,Casablanca,T000020,Alimentation,The,87.49,2,5.0,En ligne,True
+2024-03-03,Fes,T000023,Vetements,T-shirt,117.72,2,15.0,Especes,True
+2024-04-14,Fes,T000027,Maison,Miroir,1087.57,1,0.0,En ligne,True
+2024-07-14,Tanger,T000030,Alimentation,Riz,66.55,1,0.0,En ligne,True
+2024-12-15,Rabat,T000051,Alimentation,Cereales,48.95,3,0.0,Especes,True
+2024-10-27,Tanger,T000053,Maison,Miroir,641.84,1,0.0,En ligne,True
+2024-04-07,Rabat,T000054,Beaute,Creme,305.11,3,10.0,Carte,True
+2024-08-25,Rabat,T000064,Sports,Halteres,555.2,2,0.0,En ligne,True
+2024-05-12,Agadir,T000078,Vetements,Sweat,272.91,2,10.0,Carte,True
+2024-02-11,Casablanca,T000082,Vetements,Sweat,147.68,1,0.0,Especes,True
+2024-10-27,Casablanca,T000085,Alimentation,Cereales,186.92,2,0.0,En ligne,True
+2024-07-07,Casablanca,T000090,Alimentation,Cafe,118.55,1,0.0,Carte,True
+2024-04-28,Tanger,T000098,Beaute,Maquillage,589.89,1,0.0,Carte,True
+2024-04-07,Fes,T000099,Beaute,Creme,648.42,2,10.0,Especes,True
+2024-04-28,Agadir,T000103,Sports,Velo appartement,1568.52,2,10.0,En ligne,True
+2024-06-30,Marrakech,T000108,Maison,Table,735.91,1,15.0,Carte,True
+2024-09-01,Rabat,T000123,Alimentation,Cereales,44.59,1,0.0,En ligne,True
+2024-11-24,Rabat,T000124,Vetements,Veste,260.96,1,0.0,En ligne,True
+2024-10-27,Fes,T000129,Alimentation,Cafe,149.17,2,10.0,Especes,True
+2024-04-21,Agadir,T000138,Electronique,Ecouteurs,2453.99,1,0.0,Especes,True
+2024-03-10,Casablanca,T000144,Alimentation,Huile,102.76,1,0.0,Carte,True
+2024-08-04,Rabat,T000151,Maison,Coussin,817.09,2,15.0,En ligne,True
+2024-10-27,Marrakech,T000161,Electronique,Clavier,1094.6,2,10.0,CB,True
+2024-09-15,Fes,T000162,Maison,Tapis,168.44,1,0.0,Especes,True
+2024-12-08,Casablanca,T000169,Electronique,Clavier,2379.29,1,15.0,En ligne,True
+2024-06-23,Agadir,T000171,Sports,Ballon,1794.37,3,0.0,Especes,True
+2024-09-22,Rabat,T000184,Beaute,Parfum,243.03,2,0.0,Carte,True
+2024-12-15,Marrakech,T000185,Maison,Coussin,663.55,1,5.0,En-ligne,True
+2024-11-03,Tanger,T000187,Sports,Ballon,711.16,2,10.0,Especes,True
+2024-12-15,Fes,T000189,Maison,Table,759.29,3,5.0,En ligne,True
+2024-03-31,Agadir,T000204,Alimentation,Cafe,80.55,1,0.0,En ligne,True
+2024-05-05,Rabat,T000205,Vetements,T-shirt,720.7,2,0.0,Especes,True
+2024-06-30,Marrakech,T000211,Maison,Lampe,734.84,1,10.0,Carte,True
+2024-04-21,Marrakech,T000222,Sports,Halteres,177.39,1,5.0,Carte,True
+2024-04-28,Fes,T000226,Electronique,Casque,504.13,3,0.0,Carte,True
+2024-02-25,Fes,T000228,Alimentation,Pates,53.98,1,15.0,Carte,True
+2024-04-07,Tanger,T000242,Electronique,Souris,3215.17,3,0.0,En ligne,True
+2024-03-03,Marrakech,T000248,Maison,Miroir,953.22,1,0.0,En ligne,True
+2024-09-08,Agadir,T000249,Maison,Chaise,1328.58,3,5.0,En-ligne,True
+2024-10-20,Agadir,T000252,Maison,Table,214.35,4,5.0,Especes,True
+2024-10-20,Agadir,T000260,Beaute,Maquillage,508.2,1,0.0,En ligne,True
+2024-09-08,Marrakech,T000267,Maison,Table,1156.32,1,0.0,Especes,True
+2024-10-06,Agadir,T000277,Vetements,Jean,858.1,4,5.0,En ligne,True
+2024-12-29,Casablanca,T000281,Electronique,Souris,1973.14,1,0.0,En ligne,True
+2024-06-30,Tanger,T000290,Sports,Tapis Yoga,1227.79,3,0.0,Especes,True
+2024-02-25,Casablanca,T000297,Vetements,Sweat,821.37,2,5.0,En ligne,True
+2024-12-15,Tanger,T000310,Maison,Chaise,782.6,1,15.0,Carte,True
+2024-05-26,Tanger,T000311,Alimentation,Pates,154.2,2,10.0,Carte,True
+2024-06-23,Fes,T000314,Maison,Chaise,894.58,2,15.0,Carte,True
+2024-11-17,Tanger,T000316,Beaute,Maquillage,697.75,1,15.0,En ligne,True
+2024-09-29,Agadir,T000319,Electronique,Smartphone,3215.87,3,10.0,Especes,True
+2024-10-20,Fes,T000328,Beaute,Serum,428.27,1,0.0,Carte,True
+2024-10-13,Marrakech,T000335,Alimentation,The,140.35,1,0.0,Carte,True
+2024-11-03,Rabat,T000341,Beaute,Creme,672.31,2,0.0,carte,True
+2024-07-28,Casablanca,T000351,Alimentation,Cereales,72.03,2,0.0,Carte,True
+2024-09-01,Agadir,T000353,Alimentation,Huile,48.85,2,0.0,En ligne,True
+2024-11-10,Fes,T000363,Beaute,Shampooing,397.22,1,10.0,Especes,True
+2024-04-28,Agadir,T000366,Vetements,Jean,467.23,1,0.0,Especes,True
+2024-06-16,Tanger,T000377,Alimentation,Pates,88.8,1,0.0,Especes,True
+2024-05-05,Tanger,T000381,Alimentation,The,169.77,1,10.0,En ligne,True
+2024-11-03,Casablanca,T000383,Vetements,T-shirt,125.07,3,0.0,Especes,True
+2024-12-15,Casablanca,T000388,Electronique,Smartphone,1774.77,1,5.0,Especes,True
+2024-09-15,Casablanca,T000405,Alimentation,Huile,113.55,1,5.0,En ligne,True
+2024-08-18,Marrakech,T000421,Alimentation,Cereales,170.81,1,10.0,Especes,True
+2024-05-26,Agadir,T000431,Sports,Ballon,609.93,2,0.0,Carte,True
+2024-08-18,Rabat,T000441,Maison,Table,214.66,1,0.0,En ligne,True
+2024-06-30,Casablanca,T000444,Sports,Tapis Yoga,1216.89,1,10.0,Carte,True
+2024-09-08,Fes,T000453,Alimentation,Pates,154.44,4,0.0,En-ligne,True
+2024-03-17,Marrakech,T000454,Sports,Tapis Yoga,200.31,2,0.0,Especes,True
+2024-05-26,Rabat,T000456,Vetements,Robe,700.38,1,15.0,Carte,True
+2024-11-03,Marrakech,T000462,Electronique,Ecouteurs,760.59,3,5.0,Especes,True
+2024-02-18,Casablanca,T000464,Maison,Chaise,168.33,1,0.0,Especes,True
+2024-08-04,Fes,T000475,Maison,Coussin,1112.5,1,10.0,Especes,True
+2024-06-30,Casablanca,T000501,Alimentation,Pates,111.6,1,0.0,En ligne,True
+2024-04-21,Rabat,T000503,Sports,Tapis Yoga,967.53,1,5.0,Especes,True
+2024-02-18,Fes,T000521,Vetements,Chaussures,387.52,1,10.0,En ligne,True
+2024-10-20,Agadir,T000529,Alimentation,The,34.73,1,10.0,Carte,True
+2024-05-12,Agadir,T000541,Maison,Table,299.21,1,15.0,Carte,True
+2024-06-09,Casablanca,T000542,Beaute,Creme,208.62,2,0.0,Carte,True
+2024-07-14,Casablanca,T000543,Beaute,Creme,443.85,3,5.0,Carte,True
+2024-01-21,Rabat,T000547,Maison,Table,779.02,1,0.0,Carte,True
+2024-03-24,Fes,T000548,Alimentation,Pates,200.56,3,0.0,Carte,True
+2024-10-06,Rabat,T000559,Vetements,Chaussures,389.61,1,10.0,CB,True
+2024-02-18,Marrakech,T000561,Vetements,Chaussures,537.85,2,0.0,Especes,True
+2024-08-25,Casablanca,T000568,Alimentation,Huile,195.04,1,10.0,Carte,True
+2024-10-13,Agadir,T000573,Maison,Table,1129.38,2,0.0,Carte,True
+2024-09-15,Fes,T000585,Sports,Velo appartement,1441.13,1,0.0,Especes,True
+2024-02-25,Agadir,T000593,Vetements,Veste,485.49,2,0.0,En ligne,True
+2024-06-23,Agadir,T000621,Sports,Halteres,521.3,1,0.0,Carte,True
+2024-04-28,Agadir,T000625,Alimentation,The,162.78,3,10.0,En ligne,True
+2024-06-16,Marrakech,T000626,Sports,Chaussures Running,825.89,1,5.0,CB,True
+2024-12-22,Casablanca,T000630,Electronique,Souris,2865.31,1,15.0,Carte,True
+2024-07-21,Fes,T000638,Electronique,Ecouteurs,1268.17,1,5.0,carte,True
+2024-09-08,Agadir,T000645,Maison,Tapis,335.28,3,10.0,En ligne,True
+2024-02-11,Rabat,T000651,Vetements,Sweat,295.96,3,5.0,En ligne,True
+2024-01-28,Casablanca,T000658,Electronique,Ecouteurs,1063.17,2,0.0,En ligne,True
+2024-08-11,Marrakech,T000675,Alimentation,Riz,144.11,1,0.0,En ligne,True
+2024-10-13,Casablanca,T000692,Alimentation,Cafe,66.67,1,0.0,Especes,True
+2024-08-18,Casablanca,T000703,Beaute,Savon,502.59,2,0.0,Especes,True
+2024-06-23,Casablanca,T000710,Sports,Velo appartement,671.46,1,0.0,Carte,True
+2024-04-07,Rabat,T000723,Alimentation,Pates,48.06,2,15.0,En ligne,True
+2024-11-24,Fes,T000729,Beaute,Parfum,139.46,1,5.0,Especes,True
+2024-03-31,Casablanca,T000733,Alimentation,The,11.04,1,15.0,Carte,True
+2024-05-12,Rabat,T000741,Vetements,T-shirt,282.87,3,0.0,En ligne,True
+2024-07-07,Marrakech,T000742,Alimentation,Cafe,129.39,2,10.0,Carte,True
+2024-12-01,Casablanca,T000744,Alimentation,The,217.3,2,0.0,Especes,True
+2024-02-04,Casablanca,T000747,Maison,Lampe,562.14,1,10.0,Especes,True
+2024-09-01,Tanger,T000748,Vetements,Veste,559.62,2,15.0,En ligne,True
+2024-04-07,Rabat,T000766,Electronique,Casque,2763.53,1,0.0,En ligne,True
+2024-06-09,Marrakech,T000775,Alimentation,Cereales,145.51,1,10.0,En ligne,True
+2024-10-27,Fes,T000782,Maison,Chaise,1314.31,2,15.0,En ligne,True
+2024-09-01,Fes,T000785,Sports,Ballon,1677.88,1,5.0,Carte,True
+2024-09-15,Fes,T000791,Beaute,Parfum,414.74,3,10.0,Carte,True
+2024-11-10,Agadir,T000796,Electronique,Smartphone,1908.13,1,10.0,Carte,True
+2024-05-19,Tanger,T000803,Alimentation,Huile,203.07,2,0.0,Especes,True
+2024-01-28,Marrakech,T000806,Alimentation,Cafe,147.91,2,0.0,Especes,True
+2024-11-03,Tanger,T000812,Alimentation,Riz,170.45,2,0.0,Carte,True
+2024-04-14,Tanger,T000817,Beaute,Serum,229.03,1,0.0,Especes,True
+2024-06-16,Agadir,T000819,Alimentation,Pates,29.6,1,0.0,Carte,True
+2024-01-28,Marrakech,T000827,Alimentation,The,97.33,1,0.0,Especes,True
+2024-09-29,Casablanca,T000833,Vetements,Chaussures,338.42,2,5.0,Carte,True
+2024-02-18,Tanger,T000834,Alimentation,The,13.75,3,0.0,Especes,True
+2024-11-10,Tanger,T000839,Maison,Table,1366.19,2,0.0,Especes,True
+2024-06-02,Agadir,T000843,Electronique,Smartphone,2492.66,1,0.0,En ligne,True
+2024-07-07,Marrakech,T000844,Alimentation,Huile,12.07,3,0.0,Carte,True
+2024-01-28,Agadir,T000846,Alimentation,The,175.15,1,10.0,Carte,True
+2024-08-04,Tanger,T000847,Vetements,Veste,691.98,1,5.0,Carte,True
+2024-09-01,Fes,T000848,Alimentation,Huile,41.34,1,10.0,Carte,True
+2024-09-22,Casablanca,T000871,Sports,Chaussures Running,1036.52,1,0.0,En ligne,True
+2024-08-25,Marrakech,T000880,Maison,Miroir,644.13,2,10.0,Carte,True
+2024-10-20,Tanger,T000887,Alimentation,Cafe,85.73,3,10.0,Especes,True
+2024-08-18,Casablanca,T000888,Alimentation,The,204.41,2,15.0,Especes,True
+2024-09-29,Rabat,T000903,Alimentation,Cafe,90.21,2,10.0,Carte,True
+2024-12-08,Marrakech,T000910,Maison,Chaise,665.55,2,0.0,En ligne,True
+2024-07-14,Fes,T000919,Electronique,Smartphone,2156.91,1,0.0,Carte,True
+2024-03-03,Agadir,T000925,Beaute,Savon,75.81,3,0.0,Especes,True
+2024-11-17,Fes,T000927,Vetements,T-shirt,314.0,4,10.0,En ligne,True
+2024-04-07,Rabat,T000941,Maison,Lampe,1038.39,1,0.0,Carte,True
+2024-03-03,Fes,T000943,Alimentation,The,136.02,1,10.0,Carte,True
+2024-11-03,Tanger,T000946,Maison,Tapis,801.97,1,0.0,carte,True
+2024-11-03,Tanger,T000955,Vetements,Jean,118.0,2,0.0,En-ligne,True
+2024-03-31,Agadir,T000957,Electronique,Clavier,2861.03,4,0.0,Carte,True
+2024-07-28,Marrakech,T000959,Beaute,Parfum,43.45,1,10.0,Carte,True
+2024-01-28,Casablanca,T000965,Alimentation,Huile,176.96,1,0.0,En ligne,True
+2024-09-15,Agadir,T000977,Sports,Chaussures Running,248.95,3,5.0,En ligne,True
+2024-06-16,Fes,T000986,Maison,Tapis,726.34,1,5.0,Carte,True
+2024-04-28,Tanger,T000990,Electronique,Tablette,2922.36,3,0.0,carte,True
+2024-04-07,Tanger,T000994,Vetements,T-shirt,117.9,1,0.0,carte,True
+2024-10-06,Marrakech,T001003,Beaute,Shampooing,588.76,1,0.0,Carte,True
+2024-11-10,Tanger,T001020,Beaute,Maquillage,238.27,2,0.0,Carte,True
+2024-09-01,Marrakech,T001023,Electronique,Clavier,2033.95,2,15.0,Especes,True
+2024-12-01,Agadir,T001029,Sports,Velo appartement,583.69,2,10.0,En ligne,True
+2024-03-10,Tanger,T001030,Beaute,Savon,545.36,3,5.0,Carte,True
+2024-06-09,Tanger,T001035,Maison,Table,1342.11,1,10.0,Carte,True
+2024-06-30,Agadir,T001038,Maison,Miroir,422.38,3,5.0,Carte,True
+2024-05-26,Fes,T001046,Beaute,Serum,632.26,1,10.0,Especes,True
+2024-09-29,Tanger,T001049,Alimentation,Riz,51.54,1,15.0,Carte,True
+2024-03-17,Marrakech,T001056,Alimentation,Cafe,121.03,2,0.0,Carte,True
+2024-03-03,Casablanca,T001058,Vetements,Jean,328.48,2,15.0,Carte,True
+2024-12-22,Fes,T001061,Sports,Ballon,1374.23,1,0.0,Especes,True
+2024-11-24,Casablanca,T001066,Maison,Table,433.31,1,0.0,Carte,True
+2024-12-01,Marrakech,T001072,Alimentation,Riz,195.64,1,15.0,Carte,True
+2024-05-05,Agadir,T001077,Electronique,Tablette,2869.71,2,10.0,Especes,True
+2024-03-24,Marrakech,T001085,Vetements,Veste,145.62,1,0.0,Especes,True
+2024-01-14,Tanger,T001090,Beaute,Shampooing,136.91,1,10.0,Carte,True
+2024-04-28,Fes,T001091,Beaute,Parfum,356.68,3,,Especes,True
+2024-03-31,Agadir,T001093,Alimentation,Cereales,46.61,3,0.0,Carte,True
+2024-05-05,Rabat,T001095,Electronique,Souris,538.3,3,15.0,Especes,True
+2024-10-13,Fes,T001097,Vetements,Jean,702.31,2,0.0,Carte,True
+2024-02-11,Rabat,T001119,Maison,Table,395.87,1,5.0,En ligne,True
+2024-03-03,Marrakech,T001121,Electronique,Souris,2053.75,1,10.0,Carte,True
+2024-04-14,Tanger,T001137,Alimentation,Huile,111.22,1,10.0,Especes,True
+2024-03-17,Agadir,T001142,Electronique,Ecouteurs,985.8,3,0.0,En ligne,True
+2024-05-12,Agadir,T001145,Electronique,Casque,2458.11,1,0.0,Especes,True
+2024-06-16,Fes,T001147,Alimentation,Pates,171.0,2,5.0,Carte,True
+2024-07-28,Fes,T001149,Maison,Table,663.13,3,5.0,Carte,True
+2024-11-10,Marrakech,T001154,Alimentation,Cafe,204.3,2,0.0,En ligne,True
+2024-03-31,Casablanca,T001159,Alimentation,The,134.93,1,5.0,En ligne,True
+2024-04-14,Rabat,T001161,Sports,Velo appartement,478.72,1,0.0,CB,True
+2024-03-17,Tanger,T001167,Alimentation,Huile,32.82,1,0.0,Especes,True
+2024-05-26,Casablanca,T001172,Maison,Chaise,1169.76,2,0.0,En-ligne,True
+2024-03-31,Marrakech,T001175,Sports,Raquette,846.52,2,0.0,En ligne,True
+2024-11-24,Rabat,T001184,Vetements,Jean,709.3,3,5.0,En ligne,True
+2024-04-14,Fes,T001188,Vetements,Sweat,453.22,1,0.0,Carte,True
+2024-03-24,Rabat,T001194,Alimentation,The,81.19,1,5.0,Carte,True
+2024-03-17,Rabat,T001198,Maison,Miroir,557.78,2,0.0,Carte,True
+2024-05-26,Casablanca,T001201,Beaute,Creme,298.07,2,5.0,En ligne,True
+2024-08-25,Casablanca,T001205,Maison,Lampe,398.81,2,0.0,En ligne,True
+2024-10-20,Agadir,T001208,Alimentation,Cafe,24.6,2,0.0,Carte,True
+2024-10-13,Agadir,T001212,Maison,Tapis,599.71,2,5.0,En ligne,True
+2024-08-18,Tanger,T001213,Beaute,Parfum,682.73,1,10.0,Carte,True
+2024-03-31,Marrakech,T001216,Electronique,Smartphone,2608.13,3,10.0,Especes,True
+2024-07-21,Rabat,T001220,Maison,Miroir,1390.55,3,0.0,En ligne,True
+2024-04-21,Fes,T001222,Alimentation,Pates,108.42,1,5.0,En ligne,True
+2024-08-04,Marrakech,T001234,Alimentation,Cafe,138.71,1,0.0,Especes,True
+2024-05-19,Agadir,T001242,Electronique,Smartphone,2678.44,1,0.0,En ligne,True
+2024-05-26,Marrakech,T001246,Maison,Coussin,1062.17,2,10.0,Carte,True
+2024-08-25,Tanger,T001247,Maison,Miroir,608.11,4,0.0,En ligne,True
+2024-09-15,Casablanca,T001252,Alimentation,Riz,143.22,1,15.0,En ligne,True
+2024-10-13,Marrakech,T001259,Beaute,Shampooing,145.62,2,0.0,Especes,True
+2024-06-23,Agadir,T001262,Vetements,T-shirt,657.55,2,0.0,En ligne,True
+2024-11-17,Tanger,T001265,Maison,Tapis,116.29,2,0.0,CB,True
+2024-05-26,Marrakech,T001272,Alimentation,Pates,189.22,1,5.0,Carte,True
+2024-09-08,Rabat,T001289,Alimentation,Huile,90.68,2,10.0,Especes,True
+2024-11-17,Fes,T001298,Sports,Ballon,1466.72,1,0.0,Especes,True
+2024-08-04,Casablanca,T001300,Alimentation,Cereales,148.6,1,0.0,Carte,True
+2024-01-28,Casablanca,T001310,Maison,Miroir,280.85,3,15.0,Especes,True
+2024-06-09,Agadir,T001316,Maison,Lampe,1114.77,1,0.0,En ligne,True
+2024-10-20,Tanger,T001330,Beaute,Shampooing,621.27,3,5.0,Carte,True
+2024-02-25,Fes,T001331,Vetements,T-shirt,389.49,1,10.0,En ligne,True
+2024-11-17,Marrakech,T001346,Alimentation,Cafe,58.06,2,0.0,Carte,True
+2024-01-28,Fes,T001350,Alimentation,Pates,123.48,2,15.0,Carte,True
+2024-04-28,Fes,T001351,Sports,Ballon,988.83,2,5.0,CB,True
+2024-02-11,Agadir,T001352,Beaute,Maquillage,236.14,2,0.0,Especes,True
+2024-06-16,Tanger,T001356,Maison,Coussin,593.27,1,10.0,Carte,True
+2024-08-11,Tanger,T001361,Maison,Miroir,781.81,1,0.0,Especes,True
+2024-04-21,Fes,T001363,Vetements,Veste,620.82,1,10.0,Especes,True
+2024-06-23,Tanger,T001372,Maison,Miroir,1213.86,3,0.0,Carte,True
+2024-06-30,Casablanca,T001384,Alimentation,Riz,18.54,2,5.0,carte,True
+2024-11-03,Marrakech,T001389,Alimentation,Riz,72.51,2,0.0,En ligne,True
+2024-10-20,Agadir,T001394,Maison,Coussin,1302.17,2,0.0,Especes,True
+2024-04-28,Rabat,T001401,Sports,Raquette,1600.6,1,0.0,En ligne,True
+2024-05-26,Marrakech,T001405,Alimentation,Cereales,166.38,1,5.0,Carte,True
+2024-04-14,Rabat,T001412,Electronique,Smartphone,3478.34,2,0.0,carte,True
+2024-08-04,Marrakech,T001413,Vetements,Veste,609.59,2,5.0,Especes,True
+2024-07-28,Marrakech,T001421,Alimentation,The,143.16,1,10.0,carte,True
+2024-01-28,Agadir,T001434,Electronique,Souris,1065.53,4,0.0,Carte,True
+2024-04-14,Marrakech,T001435,Beaute,Savon,567.62,2,5.0,Carte,True
+2024-03-03,Agadir,T001436,Maison,Lampe,425.67,1,10.0,Carte,True
+2024-12-01,Fes,T001463,Alimentation,Pates,184.58,3,10.0,Especes,True
+2024-02-25,Marrakech,T001465,Maison,Coussin,592.52,1,0.0,Carte,True
+2024-05-26,Casablanca,T001467,Vetements,Chaussures,529.43,1,15.0,Especes,True
+2024-03-31,Casablanca,T001468,Electronique,Clavier,761.88,1,10.0,Carte,True
+2024-04-14,Agadir,T001475,Alimentation,Cafe,174.91,2,0.0,En ligne,True
+2024-07-07,Fes,T001477,Electronique,Casque,2278.01,1,,En-ligne,True
+2024-03-10,Tanger,T001478,Vetements,Sweat,726.76,1,10.0,Carte,True
+2024-09-01,Casablanca,T001488,Sports,Halteres,911.33,1,10.0,Carte,True
+2024-09-15,Marrakech,T001505,Alimentation,Pates,81.15,3,,Especes,True
+2024-07-28,Fes,T001508,Electronique,Souris,1241.82,2,5.0,En ligne,True
+2024-05-12,Casablanca,T001509,Vetements,Sweat,383.77,1,0.0,Especes,True
+2024-10-13,Casablanca,T001511,Maison,Miroir,260.53,1,5.0,Carte,True
+2024-07-07,Casablanca,T001515,Alimentation,Pates,55.78,1,0.0,Especes,True
+2024-12-01,Fes,T001527,Beaute,Maquillage,55.87,1,0.0,En ligne,True
+2024-11-10,Agadir,T001534,Beaute,Savon,332.0,3,0.0,Carte,True
+2024-11-10,Casablanca,T001538,Alimentation,Pates,59.05,4,5.0,Carte,True
+2024-12-08,Tanger,T001540,Sports,Velo appartement,738.37,2,,Carte,True
+2024-04-14,Casablanca,T001543,Maison,Table,1305.34,2,10.0,En ligne,True
+2024-11-17,Casablanca,T001574,Sports,Tapis Yoga,244.92,1,5.0,Especes,True
+2024-09-15,Marrakech,T001576,Alimentation,Cereales,143.31,1,10.0,Carte,True
+2024-06-16,Casablanca,T001578,Vetements,T-shirt,818.29,2,15.0,Especes,True
+2024-07-14,Fes,T001581,Electronique,Smartphone,3431.77,1,15.0,En ligne,True
+2024-06-09,Tanger,T001594,Electronique,Ecouteurs,3452.68,1,0.0,Especes,True
+2024-12-22,Agadir,T001608,Alimentation,Cafe,32.57,3,0.0,Carte,True
+2024-06-16,Fes,T001611,Sports,Velo appartement,352.5,1,5.0,Carte,True
+2024-04-28,Agadir,T001618,Alimentation,Cafe,47.6,2,0.0,En ligne,True
+2024-10-20,Agadir,T001620,Beaute,Serum,114.99,1,5.0,Especes,True
+2024-05-05,Agadir,T001624,Vetements,Chaussures,831.3,1,5.0,Carte,True
+2024-01-07,Agadir,T001652,Beaute,Shampooing,300.09,2,0.0,En ligne,True
+2024-11-03,Casablanca,T001655,Electronique,Souris,1517.34,2,0.0,Carte,True
+2024-10-13,Fes,T001665,Alimentation,The,138.99,2,0.0,En ligne,True
+2024-07-14,Agadir,T001674,Maison,Coussin,757.46,2,5.0,En-ligne,True
+2024-08-25,Fes,T001677,Vetements,Chaussures,410.98,2,10.0,Especes,True
+2024-09-22,Agadir,T001704,Electronique,Ecouteurs,2584.71,1,15.0,En ligne,True
+2024-04-07,Fes,T001707,Electronique,Clavier,2978.85,1,5.0,carte,True
+2024-09-22,Tanger,T001710,Maison,Lampe,508.43,1,15.0,Carte,True
+2024-05-19,Rabat,T001712,Sports,Halteres,365.36,2,0.0,En ligne,True
+2024-09-08,Marrakech,T001725,Vetements,Jean,390.59,3,0.0,Especes,True
+2024-08-11,Tanger,T001727,Vetements,Chaussures,696.05,2,0.0,carte,True
+2024-04-21,Tanger,T001748,Electronique,Smartphone,1198.59,2,0.0,En ligne,True
+2024-02-04,Fes,T001750,Maison,Coussin,315.07,1,15.0,Especes,True
+2024-02-04,Agadir,T001752,Alimentation,Huile,144.9,1,0.0,En ligne,True
+2024-09-22,Agadir,T001754,Maison,Chaise,557.04,1,10.0,Especes,True
+2024-03-03,Agadir,T001755,Sports,Tapis Yoga,179.87,1,5.0,Carte,True
+2024-03-24,Agadir,T001759,Beaute,Savon,622.14,1,0.0,Especes,True
+2024-07-07,Rabat,T001766,Alimentation,Riz,106.11,1,0.0,Especes,True
+2024-12-29,Tanger,T001775,Alimentation,Riz,143.39,1,10.0,Especes,True
+2024-04-07,Casablanca,T001778,Sports,Ballon,1736.37,2,0.0,Carte,True
+2024-12-01,Agadir,T001792,Sports,Halteres,879.34,1,0.0,En ligne,True
+2024-12-01,Agadir,T001793,Alimentation,Cafe,29.1,2,0.0,Carte,True
+2024-11-24,Marrakech,T001796,Beaute,Creme,146.61,3,0.0,Especes,True
+2024-05-12,Fes,T001801,Alimentation,Cereales,76.97,2,0.0,Especes,True
+2024-09-29,Fes,T001807,Alimentation,Cafe,140.0,2,10.0,Carte,True
+2024-11-03,Agadir,T001813,Electronique,Tablette,236.18,2,0.0,Especes,True
+2024-03-17,Casablanca,T001826,Sports,Ballon,464.42,2,5.0,En ligne,True
+2024-12-01,Casablanca,T001834,Alimentation,Huile,45.14,2,0.0,Especes,True
+2024-09-15,Tanger,T001844,Sports,Chaussures Running,876.76,3,0.0,Especes,True
+2024-09-08,Fes,T001848,Alimentation,Cereales,217.3,1,10.0,En ligne,True
+2024-07-14,Tanger,T001852,Vetements,Sweat,760.41,2,10.0,Carte,True
+2024-01-21,Fes,T001858,Electronique,Souris,1486.33,1,10.0,Especes,True
+2024-03-10,Agadir,T001861,Beaute,Shampooing,699.74,3,10.0,Carte,True
+2024-07-21,Tanger,T001862,Vetements,Sweat,882.27,2,0.0,Especes,True
+2024-11-17,Agadir,T001866,Vetements,Chaussures,646.55,2,0.0,En ligne,True
+2024-01-14,Marrakech,T001878,Alimentation,Cereales,176.63,3,0.0,Especes,True
+2024-05-05,Rabat,T001883,Alimentation,Huile,76.14,1,5.0,CB,True
+2024-09-08,Marrakech,T001889,Electronique,Smartphone,2752.96,1,5.0,En-ligne,True
+2024-04-14,Casablanca,T001894,Vetements,Veste,470.04,1,5.0,Carte,True
+2024-09-15,Casablanca,T001904,Maison,Coussin,569.51,2,15.0,Especes,True
+2024-12-01,Marrakech,T001917,Alimentation,Cereales,200.82,1,10.0,Carte,True
+2024-07-21,Agadir,T001920,Alimentation,The,30.18,2,5.0,Carte,True
+2024-07-07,Tanger,T001949,Alimentation,The,151.4,2,0.0,En ligne,True
+2024-07-14,Agadir,T001950,Maison,Lampe,586.61,2,0.0,Carte,True
+2024-04-14,Fes,T001958,Sports,Chaussures Running,1250.98,1,15.0,Especes,True
+2024-10-20,Rabat,T001959,Electronique,Casque,468.38,2,10.0,Carte,True
+2024-02-25,Tanger,T001960,Electronique,Ecouteurs,1687.6,1,10.0,Especes,True
+2024-05-26,Marrakech,T001969,Sports,Tapis Yoga,1438.35,1,5.0,En ligne,True
+2024-10-20,Agadir,T001971,Alimentation,Riz,23.04,1,0.0,Especes,True
+2024-08-04,Agadir,T001973,Beaute,Maquillage,196.07,4,10.0,Carte,True
+2024-02-04,Tanger,T001984,Maison,Miroir,79.2,2,0.0,Carte,True
+2024-03-17,Rabat,T001989,Alimentation,Cafe,105.66,2,0.0,Carte,True
+2024-04-21,Casablanca,T001990,Vetements,Chaussures,112.54,4,5.0,Especes,True
+2024-04-21,Rabat,T001991,Maison,Chaise,648.44,3,0.0,Carte,True
+2024-09-15,Fes,T002002,Electronique,Smartphone,3349.87,2,0.0,Carte,True
+2024-11-03,Rabat,T002003,Maison,Lampe,520.53,2,10.0,Carte,True
+2024-10-13,Fes,T002026,Sports,Tapis Yoga,737.31,2,10.0,Especes,True
+2024-09-08,Marrakech,T002038,Alimentation,The,212.01,3,,Carte,True
+2024-01-07,Rabat,T002049,Sports,Tapis Yoga,696.7,1,0.0,Carte,True
+2024-07-28,Tanger,T002059,Alimentation,Huile,46.86,3,10.0,En ligne,True
+2024-10-13,Rabat,T002065,Maison,Lampe,794.62,3,10.0,Carte,True
+2024-04-21,Tanger,T002073,Alimentation,Huile,32.15,2,0.0,En ligne,True
+2024-01-14,Casablanca,T002074,Maison,Chaise,1355.05,1,0.0,En ligne,True
+2024-12-15,Marrakech,T002089,Alimentation,Pates,212.02,2,0.0,Especes,True
+2024-06-02,Tanger,T002103,Maison,Coussin,680.57,2,10.0,En ligne,True
+2024-01-07,Agadir,T002104,Vetements,Robe,402.79,1,0.0,Especes,True
+2024-03-24,Fes,T002109,Electronique,Souris,2651.48,3,15.0,En ligne,True
+2024-11-24,Fes,T002112,Electronique,Clavier,344.73,1,10.0,En-ligne,True
+2024-06-02,Fes,T002113,Sports,Tapis Yoga,684.41,1,0.0,Especes,True
+2024-04-07,Fes,T002124,Alimentation,Cafe,201.9,2,0.0,Carte,True
+2024-07-14,Casablanca,T002127,Maison,Coussin,221.92,3,10.0,Especes,True
+2024-08-18,Agadir,T002133,Maison,Tapis,493.09,1,0.0,En ligne,True
+2024-01-21,Casablanca,T002140,Sports,Chaussures Running,1734.82,1,0.0,Carte,True
+2024-10-06,Agadir,T002142,Beaute,Savon,432.11,2,0.0,En-ligne,True
+2024-03-03,Rabat,T002144,Maison,Table,85.06,1,0.0,Carte,True
+2024-09-01,Marrakech,T002145,Beaute,Shampooing,639.93,2,0.0,En ligne,True
+2024-07-28,Casablanca,T002164,Alimentation,Huile,126.86,3,0.0,Carte,True
+2024-03-24,Fes,T002170,Vetements,Jean,822.35,2,0.0,Carte,True
+2024-06-02,Casablanca,T002174,Sports,Tapis Yoga,650.89,2,10.0,En ligne,True
+2024-09-08,Rabat,T002175,Electronique,Clavier,2905.16,1,15.0,Especes,True
+2024-04-21,Marrakech,T002184,Vetements,Veste,535.05,2,0.0,Carte,True
+2024-02-18,Tanger,T002190,Maison,Lampe,678.5,1,0.0,Especes,True
+2024-12-22,Rabat,T002192,Beaute,Creme,49.28,3,5.0,En ligne,True
+2024-06-09,Casablanca,T002198,Electronique,Souris,2201.04,1,0.0,Especes,True
+2024-08-04,Casablanca,T002207,Beaute,Shampooing,240.33,3,10.0,Especes,True
+2024-12-01,Rabat,T002209,Alimentation,Pates,158.83,1,10.0,Especes,True
+2024-03-31,Fes,T002224,Electronique,Casque,2209.18,2,,En ligne,True
+2024-11-17,Fes,T002225,Beaute,Maquillage,240.08,1,5.0,Especes,True
+2024-02-25,Casablanca,T002231,Maison,Lampe,1112.06,2,10.0,Especes,True
+2024-02-25,Tanger,T002239,Alimentation,Cereales,214.23,1,0.0,En ligne,True
+2024-06-23,Rabat,T002249,Alimentation,The,131.91,1,0.0,En ligne,True
+2024-05-05,Marrakech,T002264,Alimentation,The,208.05,3,0.0,Especes,True
+2024-09-15,Casablanca,T002265,Beaute,Maquillage,696.63,2,0.0,En ligne,True
+2024-10-06,Agadir,T002279,Maison,Table,948.69,1,5.0,En ligne,True
+2024-06-23,Tanger,T002295,Electronique,Casque,1848.79,1,5.0,Carte,True
+2024-07-21,Marrakech,T002299,Sports,Velo appartement,152.38,3,0.0,En ligne,True
+2024-04-28,Rabat,T002300,Alimentation,The,116.42,1,15.0,Carte,True
+2024-08-18,Casablanca,T002302,Vetements,Chaussures,771.23,1,10.0,Carte,True
+2024-05-05,Fes,T002309,Alimentation,Cafe,142.72,1,10.0,En ligne,True
+2024-12-01,Rabat,T002314,Alimentation,Cereales,114.48,2,15.0,Especes,True
+2024-12-29,Casablanca,T002318,Beaute,Serum,51.03,1,0.0,Carte,True
+2024-12-15,Agadir,T002320,Alimentation,The,42.17,2,5.0,Especes,True
+2024-10-20,Tanger,T002323,Alimentation,Huile,112.49,3,0.0,Carte,True
+2024-05-12,Rabat,T002330,Electronique,Ecouteurs,2785.42,3,0.0,Especes,True
+2024-03-17,Casablanca,T002341,Vetements,Jean,764.24,2,0.0,En ligne,True
+2024-07-21,Tanger,T002354,Electronique,Souris,1263.33,1,10.0,Especes,True
+2024-08-11,Fes,T002355,Beaute,Shampooing,659.59,2,10.0,Especes,True
+2024-07-07,Fes,T002365,Beaute,Creme,555.96,2,5.0,Especes,True
+2024-05-26,Casablanca,T002372,Vetements,Chaussures,119.15,2,0.0,Especes,True
+2024-02-11,Tanger,T002373,Electronique,Souris,2846.78,1,10.0,Especes,True
+2024-11-10,Tanger,T002386,Alimentation,Cereales,116.8,1,5.0,Carte,True
+2024-12-08,Rabat,T002402,Electronique,Ecouteurs,1258.1,1,5.0,Especes,True
+2024-04-07,Rabat,T002413,Alimentation,Cereales,127.4,2,10.0,Carte,True
+2024-11-17,Casablanca,T002414,Maison,Lampe,1045.31,1,,Carte,True
+2024-05-05,Rabat,T002428,Alimentation,Riz,56.91,2,5.0,En-ligne,True
+2024-09-22,Fes,T002430,Maison,Coussin,873.34,2,10.0,En ligne,True
+2024-04-07,Casablanca,T002433,Vetements,Chaussures,136.38,1,10.0,Carte,True
+2024-07-14,Rabat,T002436,Sports,Tapis Yoga,1271.75,2,5.0,Especes,True
+2024-02-25,Casablanca,T002440,Electronique,Souris,2337.58,3,10.0,Carte,True
+2024-04-14,Tanger,T002450,Electronique,Ecouteurs,2022.91,1,5.0,En ligne,True
+2024-01-07,Marrakech,T002454,Beaute,Serum,638.52,2,10.0,Especes,True
+2024-09-01,Tanger,T002464,Alimentation,Pates,41.94,2,0.0,En-ligne,True
+2024-08-11,Fes,T002466,Alimentation,Huile,27.32,1,10.0,Carte,True
+2024-03-03,Marrakech,T002471,Alimentation,Cafe,42.48,1,0.0,Especes,True
+2024-06-23,Agadir,T002475,Vetements,T-shirt,644.86,1,0.0,Carte,True
+2024-07-28,Tanger,T002478,Maison,Lampe,772.78,1,15.0,Especes,True
+2024-11-24,Casablanca,T002481,Sports,Ballon,103.49,2,5.0,En ligne,True
+2024-08-11,Fes,T002487,Vetements,Chaussures,263.02,1,10.0,Especes,True
+2024-06-09,Agadir,T002498,Vetements,T-shirt,490.02,2,5.0,En ligne,True
+2024-01-21,Agadir,T002513,Maison,Table,1036.06,1,0.0,Carte,True
+2024-02-11,Marrakech,T002516,Vetements,T-shirt,469.11,2,15.0,Especes,True
+2024-09-08,Fes,T002523,Vetements,Jean,131.13,1,,Carte,True
+2024-10-27,Rabat,T002528,Vetements,Jean,633.09,1,0.0,Carte,True
+2024-05-12,Rabat,T002542,Electronique,Casque,1116.09,1,5.0,Carte,True
+2024-04-21,Casablanca,T002548,Alimentation,Pates,40.75,2,0.0,Especes,True
+2024-08-04,Marrakech,T002549,Beaute,Maquillage,120.62,2,0.0,Especes,True
+2024-11-24,Agadir,T002551,Alimentation,Cereales,65.19,2,0.0,Carte,True
+2024-08-18,Marrakech,T002562,Maison,Chaise,673.42,1,10.0,En ligne,True
+2024-05-26,Casablanca,T002565,Alimentation,Pates,17.27,2,5.0,Especes,True
+2024-02-11,Fes,T002567,Maison,Miroir,64.2,1,0.0,Carte,True
+2024-11-10,Casablanca,T002568,Alimentation,Riz,53.15,2,10.0,Carte,True
+2024-11-10,Tanger,T002579,Alimentation,Pates,196.23,1,10.0,En ligne,True
+2024-10-13,Fes,T002603,Maison,Chaise,465.89,2,10.0,Carte,True
+2024-08-18,Casablanca,T002604,Alimentation,Riz,100.86,1,0.0,En ligne,True
+2024-07-28,Rabat,T002609,Alimentation,Riz,31.93,2,10.0,Carte,True
+2024-03-17,Marrakech,T002611,Alimentation,The,20.01,2,10.0,Carte,True
+2024-10-27,Agadir,T002612,Vetements,Robe,682.42,2,,Carte,True
+2024-02-18,Fes,T002614,Beaute,Parfum,624.78,2,0.0,En ligne,True
+2024-01-21,Fes,T002617,Sports,Ballon,107.77,2,10.0,carte,True
+2024-11-24,Marrakech,T002624,Sports,Tapis Yoga,134.48,4,10.0,Especes,True
+2024-07-21,Casablanca,T002627,Vetements,Veste,517.03,3,,En ligne,True
+2024-11-17,Marrakech,T002628,Maison,Coussin,909.19,3,5.0,Carte,True
+2024-05-26,Casablanca,T002652,Electronique,Casque,455.68,1,0.0,CB,True
+2024-05-26,Casablanca,T002653,Alimentation,Cereales,210.3,1,0.0,Especes,True
+2024-01-14,Fes,T002658,Beaute,Creme,238.48,1,5.0,Especes,True
+2024-12-01,Fes,T002664,Electronique,Smartphone,573.82,1,5.0,En ligne,True
+2024-12-01,Rabat,T002670,Vetements,T-shirt,331.16,1,0.0,carte,True
+2024-06-23,Tanger,T002693,Electronique,Smartphone,3054.29,3,10.0,En-ligne,True
+2024-10-20,Marrakech,T002716,Beaute,Shampooing,80.13,1,0.0,Carte,True
+2024-11-17,Agadir,T002731,Maison,Chaise,872.69,1,0.0,Especes,True
+2024-05-26,Fes,T002741,Sports,Ballon,215.98,1,0.0,Carte,True
+2024-10-27,Marrakech,T002742,Electronique,Casque,2925.25,2,0.0,Carte,True
+2024-06-02,Rabat,T002753,Electronique,Clavier,2595.65,1,0.0,En ligne,True
+2024-08-25,Marrakech,T002767,Beaute,Maquillage,546.41,1,0.0,Especes,True
+2024-06-23,Fes,T002775,Alimentation,The,178.49,2,5.0,Especes,True
+2024-04-14,Casablanca,T002784,Maison,Table,679.7,2,0.0,En ligne,True
+2024-03-17,Rabat,T002786,Maison,Miroir,806.02,2,10.0,Especes,True
+2024-08-04,Marrakech,T002794,Electronique,Clavier,3257.28,1,15.0,Carte,True
+2024-06-02,Agadir,T002797,Vetements,Robe,375.39,1,0.0,En ligne,True
+2024-06-09,Tanger,T002798,Beaute,Serum,593.07,2,10.0,Especes,True
+2024-02-04,Marrakech,T002820,Sports,Raquette,117.55,2,5.0,Especes,True
+2024-11-03,Tanger,T002837,Beaute,Shampooing,178.74,3,10.0,Especes,True
+2024-02-11,Tanger,T002844,Alimentation,Huile,139.23,2,15.0,Especes,True
+2024-06-23,Fes,T002848,Maison,Coussin,895.91,2,0.0,Especes,True
+2024-04-14,Casablanca,T002854,Alimentation,Huile,119.22,2,0.0,En ligne,True
+2024-08-18,Marrakech,T002860,Alimentation,Cereales,156.7,1,0.0,Carte,True
+2024-11-10,Fes,T002875,Beaute,Savon,105.83,3,10.0,En ligne,True
+2024-03-31,Marrakech,T002877,Maison,Lampe,101.43,3,5.0,Carte,True
+2024-01-28,Agadir,T002884,Sports,Chaussures Running,188.38,1,0.0,CB,True
+2024-07-21,Agadir,T002894,Alimentation,Cafe,153.66,2,0.0,Carte,True
+2024-05-05,Agadir,T002898,Sports,Tapis Yoga,499.74,2,0.0,Carte,True
+2024-02-18,Tanger,T002899,Electronique,Souris,2832.45,4,10.0,Especes,True
+2024-10-27,Casablanca,T002909,Alimentation,The,160.4,1,0.0,En ligne,True
+2024-04-14,Fes,T002919,Maison,Tapis,175.83,2,0.0,En ligne,True
+2024-12-22,Agadir,T002925,Alimentation,Huile,100.11,2,10.0,Especes,True
+2024-02-04,Agadir,T002931,Electronique,Tablette,3371.18,2,0.0,En ligne,True
+2024-08-18,Tanger,T002935,Vetements,Sweat,767.1,1,0.0,Carte,True
+2024-02-04,Fes,T002941,Maison,Miroir,79.45,2,15.0,En ligne,True
+2024-01-28,Rabat,T002952,Alimentation,Riz,44.19,3,10.0,Especes,True
+2024-11-03,Fes,T002962,Alimentation,Pates,56.95,2,0.0,En ligne,True
+2024-10-27,Tanger,T002968,Alimentation,Huile,41.18,1,10.0,Carte,True
+2024-10-20,Fes,T002972,Alimentation,The,169.32,1,0.0,En ligne,True
+2024-05-05,Marrakech,T002975,Alimentation,Cafe,96.65,3,5.0,Carte,True
+2024-01-07,Casablanca,T002981,Sports,Ballon,895.61,1,0.0,Especes,True
+2024-02-11,Casablanca,T002989,Electronique,Tablette,2216.38,3,15.0,Carte,True
+2024-04-28,Tanger,T002990,Beaute,Savon,213.21,1,0.0,Carte,True
+2024-03-24,Casablanca,T002991,Electronique,Souris,1335.43,2,5.0,En ligne,True
+2024-03-24,Marrakech,T002996,Electronique,Ecouteurs,2426.05,1,10.0,Especes,True
+2024-09-01,Fes,T003003,Vetements,Veste,225.9,1,0.0,Especes,True
+2024-09-01,Casablanca,T003008,Maison,Chaise,230.65,3,0.0,Especes,True
+2024-03-17,Marrakech,T003015,Maison,Miroir,89.61,1,0.0,Especes,True
+2024-10-13,Rabat,T003016,Beaute,Creme,287.07,3,5.0,En ligne,True
+2024-03-03,Agadir,T003023,Vetements,Sweat,281.75,3,5.0,Especes,True
+2024-02-04,Rabat,T003024,Vetements,Jean,699.49,2,0.0,Carte,True
+2024-09-29,Agadir,T003035,Alimentation,Cereales,96.75,2,,Carte,True
+2024-11-24,Fes,T003051,Alimentation,Huile,140.45,1,10.0,Especes,True
+2024-03-10,Agadir,T003052,Maison,Table,1097.61,2,5.0,En ligne,True
+2024-05-26,Marrakech,T003053,Electronique,Souris,392.4,2,0.0,En-ligne,True
+2024-12-01,Marrakech,T003058,Maison,Miroir,590.16,2,15.0,En ligne,True
+2024-04-28,Rabat,T003060,Alimentation,Cereales,193.97,1,0.0,Especes,True
+2024-08-04,Fes,T003061,Electronique,Smartphone,2339.31,2,10.0,En ligne,True
+2024-01-07,Marrakech,T003067,Vetements,Chaussures,860.83,2,0.0,Especes,True
+2024-09-08,Agadir,T003079,Sports,Tapis Yoga,727.79,2,0.0,En-ligne,True
+2024-08-18,Tanger,T003083,Vetements,Veste,625.71,1,5.0,Especes,True
+2024-03-03,Marrakech,T003086,Vetements,Robe,534.54,2,10.0,Carte,True
+2024-03-03,Tanger,T003089,Beaute,Parfum,632.17,1,0.0,Carte,True
+2024-06-02,Rabat,T003101,Beaute,Savon,269.49,3,15.0,Especes,True
+2024-09-29,Agadir,T003102,Electronique,Casque,420.6,1,5.0,Carte,True
+2024-09-29,Casablanca,T003110,Sports,Halteres,1552.42,3,0.0,En ligne,True
+2024-11-03,Casablanca,T003117,Electronique,Smartphone,1579.86,1,15.0,Especes,True
+2024-04-14,Casablanca,T003121,Electronique,Smartphone,3237.8,1,5.0,En ligne,True
+2024-05-12,Tanger,T003127,Vetements,Chaussures,552.01,3,0.0,En ligne,True
+2024-08-18,Tanger,T003129,Alimentation,Pates,202.26,3,10.0,Especes,True
+2024-10-27,Casablanca,T003135,Alimentation,Riz,55.68,1,0.0,carte,True
+2024-08-25,Agadir,T003136,Alimentation,The,211.93,1,0.0,En ligne,True
+2024-12-15,Rabat,T003145,Maison,Table,1245.17,1,0.0,Carte,True
+2024-08-04,Casablanca,T003149,Alimentation,Cafe,83.43,1,10.0,Carte,True
+2024-04-14,Marrakech,T003153,Alimentation,The,50.3,3,0.0,Especes,True
+2024-01-28,Fes,T003160,Sports,Raquette,716.29,2,0.0,En ligne,True
+2024-03-03,Agadir,T003163,Vetements,Veste,448.91,2,5.0,Especes,True
+2024-10-06,Marrakech,T003168,Vetements,Chaussures,399.77,2,0.0,En ligne,True
+2024-03-03,Casablanca,T003173,Alimentation,Cafe,85.43,3,10.0,En ligne,True
+2024-07-14,Fes,T003183,Electronique,Tablette,2803.85,1,0.0,Carte,True
+2024-10-06,Agadir,T003188,Alimentation,Pates,49.82,1,5.0,En ligne,True
+2024-07-07,Rabat,T003192,Electronique,Ecouteurs,2607.36,2,0.0,Carte,True
+2024-03-10,Tanger,T003194,Alimentation,Riz,49.36,3,0.0,Carte,True
+2024-05-19,Fes,T003205,Alimentation,Pates,96.13,1,15.0,Carte,True
+2024-02-11,Marrakech,T003214,Electronique,Ecouteurs,3122.01,1,0.0,En ligne,True
+2024-09-22,Fes,T003221,Sports,Raquette,1483.6,1,0.0,Carte,True
+2024-10-20,Marrakech,T003226,Alimentation,The,94.62,2,0.0,Especes,True
+2024-06-30,Tanger,T003230,Electronique,Souris,2721.46,3,10.0,Especes,True
+2024-10-13,Rabat,T003235,Alimentation,The,145.12,3,5.0,Carte,True
+2024-10-20,Rabat,T003238,Alimentation,Cafe,68.55,3,0.0,En ligne,True
+2024-07-21,Fes,T003251,Beaute,Parfum,457.73,2,10.0,Especes,True
+2024-06-16,Tanger,T003253,Alimentation,The,70.53,2,0.0,CB,True
+2024-01-07,Casablanca,T003259,Alimentation,Cereales,192.69,1,0.0,carte,True
+2024-03-03,Casablanca,T003261,Maison,Coussin,1018.45,2,15.0,Carte,True
+2024-08-04,Fes,T003262,Beaute,Parfum,212.45,1,5.0,Carte,True
+2024-09-01,Casablanca,T003265,Maison,Miroir,768.22,2,5.0,Carte,True
+2024-01-07,Tanger,T003277,Alimentation,Huile,174.97,1,0.0,Especes,True
+2024-03-31,Casablanca,T003279,Sports,Velo appartement,621.82,1,0.0,Especes,True
+2024-08-18,Agadir,T003282,Vetements,Jean,785.62,1,0.0,Especes,True
+2024-09-22,Tanger,T003283,Sports,Raquette,840.45,2,10.0,Especes,True
+2024-06-16,Marrakech,T003287,Alimentation,Cereales,47.93,1,5.0,En ligne,True
+2024-11-17,Marrakech,T003292,Sports,Halteres,535.82,2,10.0,En-ligne,True
+2024-11-24,Agadir,T003297,Beaute,Creme,122.88,2,10.0,Especes,True
+2024-06-16,Marrakech,T003299,Sports,Ballon,412.35,3,,Especes,True
+2024-03-24,Tanger,T003305,Beaute,Creme,239.57,1,0.0,Carte,True
+2024-01-21,Fes,T003315,Sports,Halteres,320.55,3,5.0,Especes,True
+2024-07-28,Marrakech,T003321,Alimentation,Cereales,196.0,1,5.0,Carte,True
+2024-11-24,Casablanca,T003322,Sports,Raquette,468.72,1,10.0,Especes,True
+2024-09-08,Marrakech,T003327,Electronique,Ecouteurs,3332.07,2,10.0,En ligne,True
+2024-04-07,Marrakech,T003331,Vetements,Jean,750.26,2,0.0,Especes,True
+2024-04-28,Fes,T003343,Alimentation,The,218.7,2,5.0,Carte,True
+2024-04-07,Rabat,T003350,Sports,Ballon,445.33,2,0.0,En ligne,True
+2024-12-29,Rabat,T003357,Electronique,Smartphone,1558.0,3,0.0,Especes,True
+2024-12-29,Casablanca,T003361,Vetements,Veste,292.08,1,10.0,En ligne,True
+2024-07-21,Marrakech,T003364,Electronique,Souris,1799.99,2,0.0,Carte,True
+2024-03-03,Agadir,T003366,Maison,Lampe,520.27,3,15.0,Especes,True
+2024-08-18,Rabat,T003367,Maison,Chaise,265.03,1,0.0,Carte,True
+2024-11-10,Tanger,T003398,Sports,Raquette,447.69,1,10.0,Carte,True
+2024-09-22,Casablanca,T003399,Maison,Miroir,301.5,3,15.0,En ligne,True
+2024-02-25,Rabat,T003417,Sports,Velo appartement,299.62,1,15.0,Carte,True
+2024-12-15,Tanger,T003425,Electronique,Casque,1450.58,3,10.0,En ligne,True
+2024-05-12,Casablanca,T003439,Vetements,T-shirt,505.96,1,10.0,Especes,True
+2024-02-04,Tanger,T003440,Sports,Halteres,212.55,2,5.0,Especes,True
+2024-11-17,Marrakech,T003449,Electronique,Ecouteurs,2926.52,2,0.0,Carte,True
+2024-07-07,Fes,T003454,Beaute,Parfum,130.1,3,10.0,En ligne,True
+2024-03-24,Marrakech,T003455,Maison,Tapis,417.9,1,0.0,Carte,True
+2024-04-21,Agadir,T003464,Electronique,Souris,1383.22,1,0.0,En ligne,True
+2024-07-14,Casablanca,T003477,Electronique,Tablette,595.12,2,15.0,En ligne,True
+2024-01-28,Rabat,T003481,Maison,Miroir,390.18,1,0.0,En-ligne,True
+2024-02-11,Rabat,T003485,Alimentation,Cafe,168.39,2,0.0,En ligne,True
+2024-10-27,Agadir,T003488,Sports,Tapis Yoga,1384.72,3,10.0,En-ligne,True
+2024-09-22,Tanger,T003497,Maison,Coussin,1161.92,2,5.0,En ligne,True
+2024-01-14,Rabat,T003499,Alimentation,Riz,165.44,2,0.0,En ligne,True
+2024-06-23,Agadir,T002475,Vetements,T-shirt,644.86,1,0.0,Carte,True
+2024-10-20,Agadir,T000529,Alimentation,The,34.73,1,10.0,Carte,True
