@@ -23,7 +23,7 @@ The analysis produced distribution plots and revenue contribution charts to supp
 ## Visual Insights
 | Distribution Analysis | Revenue Contribution |
 | --- | --- |
-| ![Distribution](distribution-amounts-plot.png) | ![Revenue](revenue-contribution-plot.png) |
+| ![Distribution](docs/distribution-amounts-plot.png) | ![Revenue](docs/revenue-contribution-plot.png) |
 
 ---
 *Developed for the Data Mining Module - Mundiapolis University.*
