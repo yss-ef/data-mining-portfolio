@@ -1,23 +1,29 @@
-# Lab 02: Advanced Data Manipulation & Visualization
+# Lab 02: advanced data manipulation and visualization
 
-## Overview
-This laboratory focuses on mastering the Python data science stack—specifically NumPy, Pandas, and Matplotlib—to perform complex data manipulation and exploratory visualization.
+This laboratory focuses on mastering the Python data science stack,
+specifically NumPy, Pandas, and Matplotlib, to perform complex data
+manipulation and exploratory visualization.
 
-## Key Technical Tasks
-*   **NumPy Mastery**: Matrix operations, statistical calculations, and array broadcasting.
-*   **Pandas Operations**: Handling real-world datasets (Office Sales), managing missing values (NaN), and performing advanced filtering/grouping.
-*   **Data Visualization**: Creating multi-axis plots, subplots, and customized statistical charts (Scatter, Histograms, Boxplots) using Matplotlib and Seaborn.
+## Key technical tasks
 
-## Key Projects
-*   **Office Sales Analysis**: Visualizing the relationship between salary, sales, and work divisions.
-*   **Movie Scores Case Study**: Managing inconsistent data and identifying trends in audience ratings.
+- NumPy mastery: Implements matrix operations, statistical calculations, and
+  array broadcasting.
+- Pandas operations: Manages real-world datasets, handles missing values, and
+  performs advanced filtering and grouping.
+- Data visualization: Creates multi-axis plots, subplots, and customized
+  statistical charts using Matplotlib and Seaborn.
 
-## Technical Stack
-*   **Python**: Jupyter Notebooks
-*   **Libraries**: NumPy, Pandas, Matplotlib, Seaborn
+## Key projects
 
----
-*Developed for the Data Mining Module - Mundiapolis University.*
+- Office sales analysis: Visualizes the relationship between salary, sales, and
+  work divisions.
+- Movie scores case study: Manages inconsistent data and identifies trends in
+  audience ratings.
 
-Authored by Youssef Fellah.  
-Developed for the Engineering Cycle - Mundiapolis University.
+## Technical stack
+
+- Python: Jupyter Notebooks
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn
+
+Authored by Youssef Fellah.
+Developed for the Engineering Cycle at Mundiapolis University.

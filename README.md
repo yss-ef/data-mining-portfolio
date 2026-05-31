@@ -1,27 +1,39 @@
-# Data Mining Portfolio
+# Data mining portfolio
 
-A professional collection of data mining projects and analytical labs, focusing on exploratory data analysis (EDA), statistical validation, and business intelligence discovery.
+This repository contains a professional collection of data mining projects and
+analytical labs. The work focuses on exploratory data analysis (EDA),
+statistical validation, and business intelligence discovery.
 
-## Executive Summary: The "Sunday Effect"
-In the flagship study of this portfolio (Lab 03), I conducted a deep-dive analysis into retail transaction patterns across 6 Moroccan cities to identify the "Sunday Effect."
+## Executive summary: the "Sunday Effect"
 
-### Key Findings:
-*   Premium Basket Value: Sunday transactions demonstrated a 14% higher average value (1,120 MAD) compared to weekdays, suggesting that consumers shift toward planned, high-value purchases during the weekend.
-*   Tech-Driven Growth: High-tech products (Smartphones, Peripherals) generate ~32% of total Sunday revenue.
-*   Geographical Consistency: The "Smartphone" sales surge is a robust national trend, verified in 100% of the cities analyzed (Casablanca, Rabat, Tangier, etc.), while other products showed localized behavior.
+The flagship study in this portfolio (Lab 03) analyzes retail transaction
+patterns across six Moroccan cities to identify the "Sunday Effect."
 
-## Repository Structure
+### Key findings
 
-*   [lab-01-intro](./lab-01-intro): Introduction to Data Mining concepts and methodology.
-*   [lab-02-pandas-matplotlib](./lab-02-pandas-matplotlib): Advanced data manipulation and visualization with NumPy, Pandas, and Matplotlib.
-*   [lab-03-sunday-effect](./lab-03-sunday-effect): Comprehensive retail analysis using statistical hypothesis testing and multi-city validation.
+- Premium basket value: Sunday transactions show a 14% higher average value
+  (1,120 MAD) compared to weekdays. This suggests consumers shift toward
+  planned, high-value purchases during the weekend.
+- Tech-driven growth: High-tech products, such as smartphones and peripherals,
+  generate approximately 32% of total Sunday revenue.
+- Geographical consistency: The surge in smartphone sales is a robust national
+  trend verified in all analyzed cities, including Casablanca, Rabat, and
+  Tangier.
 
-## Tech Stack
-*   Language: Python (Jupyter)
-*   Libraries: Pandas, NumPy, Scikit-learn
-*   Visualization: Matplotlib, Seaborn
+## Repository structure
 
----
+- [lab-01-intro](./lab-01-intro): Introduction to data mining concepts and
+  methodology.
+- [lab-02-pandas-matplotlib](./lab-02-pandas-matplotlib): Advanced data
+  manipulation and visualization using NumPy, Pandas, and Matplotlib.
+- [lab-03-sunday-effect](./lab-03-sunday-effect): Retail analysis using
+  statistical hypothesis testing and multi-city validation.
 
-Authored by Youssef Fellah.  
-Developed for the Engineering Cycle - Mundiapolis University.
+## Tech stack
+
+- Language: Python (Jupyter)
+- Libraries: Pandas, NumPy, Scikit-learn
+- Visualization: Matplotlib, Seaborn
+
+Authored by Youssef Fellah.
+Developed for the Engineering Cycle at Mundiapolis University.
